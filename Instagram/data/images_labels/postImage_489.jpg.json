@@ -1,0 +1,1 @@
+[{"Name": "Text", "Confidence": 97.34333038330078, "Instances": [], "Parents": []}, {"Name": "Menu", "Confidence": 85.41316223144531, "Instances": [{"BoundingBox": {"Width": 0.9382767081260681, "Height": 0.9322299361228943, "Left": 0.03054230287671089, "Top": 0.03195459023118019}, "Confidence": 85.41316223144531}], "Parents": [{"Name": "Text"}]}]
