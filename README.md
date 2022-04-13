@@ -1,6 +1,6 @@
 # Social Analytics (IS434) - G2, Group 6 
 
-We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society audience using test and network analysis.
+We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society audience using text and network analysis.
 
 
 ## Final Deliverables
