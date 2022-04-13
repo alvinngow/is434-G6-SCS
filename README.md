@@ -1,6 +1,6 @@
 # Social Analytics (IS434) - G2, Group 6 
 
-We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society audience using text and network analysis.
+We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society (SCS) audience using text and network analysis.
 
 
 ## Final Deliverables
@@ -8,7 +8,7 @@ Our final deliverables include a poster, presentation slides deck and the codes 
 
 
 ## Our Client
-The Singapore Children's Society is a non-profit organization which advocates the bridging of the gaps experienced by children and youth of all races and religions. Applauded for their commitment in protecting and nurturing children, youth and families in need, SCS’s services have consistently evolved to meet the changing needs of these vulnerable groups. Operating more than 10 service centres islandwide and reaching out to nearly 40,000 families, SCS offers services in the four categories:
+The Singapore Children's Society is a non-profit organization which advocates the bridging of gaps experienced by children and youth of all races and religions. Applauded for their commitment in protecting and nurturing children, youth and families in need, SCS’s services have consistently evolved to meet the changing needs of these vulnerable groups. Operating more than 10 service centres islandwide and reaching out to nearly 40,000 families, SCS offers services in the four categories:
 1. Vulnerable Children and Youth
 2. Children and Youth Services
 3. Family Services
@@ -16,7 +16,7 @@ The Singapore Children's Society is a non-profit organization which advocates th
 
 
 ## Our top-level directory layout
-Folders are separated out into each of the corresponding social media platforms that the team conducted analysis on. Within each of these folders are sub-folders that stores the codes for each problem analysis.
+Folders are separated out into each of the corresponding social media platforms that the team conducted analysis on. Within each of these folders are sub-folders that store the codes for each problem analysis.
 
     .
     ├── Instagram                         # Analysis conducted on Instagram
