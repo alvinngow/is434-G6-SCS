@@ -1,13 +1,11 @@
 # Social Analytics (IS434) - G2, Group 6 
 
-We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society audience using test and network analysis.
+We are `Project R.A.V.I.N` - Raising Awareness on Vulnerabilities of those In Need Vulnerabilities faced by children, youths and families in need. We aim to tackle the lack of engagement and social media presence with The Children's Society audience using text and network analysis.
 
-<br>
 
 ## Final Deliverables
 Our final deliverables include a poster, presentation slides deck and the codes for each analysis conducted.
 
-<br>
 
 ## Our Client
 The Singapore Children's Society is a non-profit organization which advocates the bridging of the gaps experienced by children and youth of all races and religions. Applauded for their commitment in protecting and nurturing children, youth and families in need, SCS’s services have consistently evolved to meet the changing needs of these vulnerable groups. Operating more than 10 service centres islandwide and reaching out to nearly 40,000 families, SCS offers services in the four categories:
@@ -16,7 +14,6 @@ The Singapore Children's Society is a non-profit organization which advocates th
 3. Family Services
 4. Research and Advocacy
 
-<br>
 
 ## Our top-level directory layout
 Folders are separated out into each of the corresponding social media platforms that the team conducted analysis on. Within each of these folders are sub-folders that stores the codes for each problem analysis.
@@ -26,11 +23,11 @@ Folders are separated out into each of the corresponding social media platforms 
     ├── LinkedIn                          # Analysis conducted on LinkedIn
     ├── Reddit                            # Analysis conducted on Reddit
     ├── Twitter                           # Analysis conducted on Twitter
+    ├── .gitignore.txt                    # gitignore text file
     ├── SA - G2Group6 - Poster.pdf        # Poster
     ├── SA - G2Group6 - Presentation.pdf  # Presentation Slides
     └── README.md                         # Readme
 
-<br>
 
 ## Tools used
 
@@ -47,7 +44,6 @@ Folders are separated out into each of the corresponding social media platforms 
 - [Selenium](https://www.selenium.dev/documentation/)
 - [Scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
 
-<br>
 
 ## Contributors
 - Ailys Tee Xynyn
@@ -55,7 +51,6 @@ Folders are separated out into each of the corresponding social media platforms 
 - Gan Shao Hong
 - Wang Shurui
 
-<br>
 
 ## Special Mention
 - [The Singapore Children's Society](https://www.childrensociety.org.sg/)
