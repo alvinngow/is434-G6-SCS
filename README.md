@@ -26,6 +26,7 @@ Folders are separated out into each of the corresponding social media platforms 
     ├── LinkedIn                          # Analysis conducted on LinkedIn
     ├── Reddit                            # Analysis conducted on Reddit
     ├── Twitter                           # Analysis conducted on Twitter
+    ├── .gitignore.txt                    # gitignore text file
     ├── SA - G2Group6 - Poster.pdf        # Poster
     ├── SA - G2Group6 - Presentation.pdf  # Presentation Slides
     └── README.md                         # Readme
