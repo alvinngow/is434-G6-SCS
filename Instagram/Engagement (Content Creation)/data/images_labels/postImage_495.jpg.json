@@ -1,0 +1,1 @@
+[{"Name": "First Aid", "Confidence": 81.49787139892578, "Instances": [{"BoundingBox": {"Width": 0.9652427434921265, "Height": 0.9164286851882935, "Left": 0.03210907056927681, "Top": 0.07262318581342697}, "Confidence": 81.49787139892578}], "Parents": []}, {"Name": "Text", "Confidence": 75.937255859375, "Instances": [], "Parents": []}]

@@ -1,0 +1,1 @@
+[{"Name": "Rug", "Confidence": 94.368896484375, "Instances": [{"BoundingBox": {"Width": 0.8526119589805603, "Height": 0.6622174382209778, "Left": 0.09256213158369064, "Top": 0.32761120796203613}, "Confidence": 94.368896484375}], "Parents": []}, {"Name": "Floor", "Confidence": 92.2952651977539, "Instances": [], "Parents": []}]

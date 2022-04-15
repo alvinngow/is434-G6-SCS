@@ -1,0 +1,1 @@
+[{"Name": "Amusement Park", "Confidence": 95.79603576660156, "Instances": [], "Parents": []}, {"Name": "Theme Park", "Confidence": 91.07318878173828, "Instances": [], "Parents": [{"Name": "Amusement Park"}]}, {"Name": "Ferris Wheel", "Confidence": 78.06632995605469, "Instances": [], "Parents": [{"Name": "Amusement Park"}]}]

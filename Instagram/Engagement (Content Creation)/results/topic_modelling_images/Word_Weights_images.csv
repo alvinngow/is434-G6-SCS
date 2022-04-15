@@ -1,0 +1,6 @@
+,Topic,Word Weights,Inferred Topics
+0,0,"0.111*""indoors"" + 0.105*""room"" + 0.092*""crowd"" + 0.061*""school"" + 0.056*""screen"" + 0.051*""electronics"" + 0.051*""furniture"" + 0.045*""audience"" + 0.044*""classroom"" + 0.042*""table""","Advertising, posters and brochures"
+1,1,"0.093*""clothing"" + 0.091*""apparel"" + 0.053*""outdoors"" + 0.049*""shoe"" + 0.044*""footwear"" + 0.034*""accessories_accessory"" + 0.033*""phone"" + 0.030*""building"" + 0.030*""nature"" + 0.029*""animal""",Crowds of People
+2,2,"0.179*""advertisement"" + 0.177*""poster"" + 0.162*""paper"" + 0.148*""flyer"" + 0.147*""brochure"" + 0.085*""text"" + 0.014*""document"" + 0.013*""collage"" + 0.009*""graphics_art"" + 0.009*""bag""",Activities
+3,3,"0.194*""clothing"" + 0.192*""apparel"" + 0.119*""people"" + 0.072*""face"" + 0.068*""female"" + 0.051*""shoe_footwear"" + 0.041*""shorts"" + 0.032*""pants"" + 0.027*""sport"" + 0.021*""girl""",Indoors or Classroom settings
+4,4,"0.217*""text"" + 0.101*""food"" + 0.047*""plant"" + 0.044*""sleeve"" + 0.040*""meal"" + 0.037*""restaurant"" + 0.033*""glasses_accessories"" + 0.033*""symbol"" + 0.033*""accessory"" + 0.030*""label""",Nature or Outdoor settings
