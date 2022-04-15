@@ -23,6 +23,14 @@ reddit = praw.Reddit(client_id='EQlR29dhRQlv4Y31BZspAA',
 params = {'sort': 'new', 'limit': None, 'syntax': 'cloudsearch'}
 
 
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.2f}%  ({v:d})'.format(p=pct, v=val)
+    return my_autopct
+
+
 print("retrieving")
 
 # retrieve information about posts
@@ -46,7 +54,13 @@ for condition in conditions:
     total += len(posts)
     # print(posts_about_mental_health)
 
+explodeArr = []
+
+for e in range(len(lenArray)):
+    explodeArr.append(0.1)
+
+
 x = np.array(lenArray)
-plt.pie(x, labels=conditions)
+plt.pie(x, labels=conditions, autopct=make_autopct(x), explode=explodeArr)
 plt.legend(conditions, bbox_to_anchor=(0, 1), loc='upper left', ncol=1)
 plt.show()
